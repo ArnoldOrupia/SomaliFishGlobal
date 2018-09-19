@@ -1,0 +1,151 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Heroic\n"
+"POT-Creation-Date: 2018-08-21 14:09+0530\n"
+"PO-Revision-Date: 2018-08-21 14:08+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:10
+msgid "4"
+msgstr ""
+
+#: 404.php:11
+msgid "Oops! Page not found"
+msgstr ""
+
+#: 404.php:12
+msgid "We are sorry, but the page you are looking for does not exist."
+msgstr ""
+
+#: 404.php:14
+msgid "Back to Homepage"
+msgstr ""
+
+#: content.php:30 functions.php:199
+msgid "Read More"
+msgstr ""
+
+#: content.php:44 single.php:51
+msgid "No Comments"
+msgstr ""
+
+#: content.php:44 single.php:51
+msgid "One comment"
+msgstr ""
+
+#: content.php:44 single.php:51
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: content.php:47 single.php:54
+msgid "In"
+msgstr ""
+
+#: functions.php:22
+msgid "Banner setting"
+msgstr ""
+
+#: functions.php:34
+msgid "Remove banner image from all pages"
+msgstr ""
+
+#: functions.php:57
+msgid "Slider settings"
+msgstr ""
+
+#: functions.php:63
+msgid "Featured slider settings"
+msgstr ""
+
+#: functions.php:78
+msgid "Image"
+msgstr ""
+
+#: functions.php:90 functions.php:212
+msgid "Elegant design"
+msgstr ""
+
+#: functions.php:96
+msgid "Title"
+msgstr ""
+
+#: functions.php:105 functions.php:213
+msgid "Welcome to Heroic theme"
+msgstr ""
+
+#: functions.php:111
+msgid "Subtitle"
+msgstr ""
+
+#: functions.php:120 functions.php:214
+msgid "Create beautiful websites, 100% responsive and easy to customize."
+msgstr ""
+
+#: functions.php:126
+msgid "Description"
+msgstr ""
+
+#: functions.php:136 functions.php:215
+msgid "Get this theme"
+msgstr ""
+
+#: functions.php:143
+msgid "Button Text"
+msgstr ""
+
+#: functions.php:159
+msgid "Button Link"
+msgstr ""
+
+#: search.php:16
+msgid "Nothing Found"
+msgstr ""
+
+#: search.php:17
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Heroic"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://webriti.com/heroic-wordpress-theme/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Heroic is a responsive, multi-purpose WordPress theme. It’s flexible and "
+"suitable for agencies, blogs, businesses, finance, accounting, consulting, "
+"corporations, or portfolios. Customization is easy and straight-forward, "
+"with options provided that allow you to setup your site to perfectly fit "
+"your desired online presence. For more details, visit this link https://"
+"wordpress.org/themes/quality/. We hope you will find the Heroic theme useful."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Webriti"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://webriti.com"
+msgstr ""
